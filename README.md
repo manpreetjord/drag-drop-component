@@ -1,4 +1,4 @@
-DEMO LIVE LINK:https://manpreetjord.github.io/drag-drop-component/
+#DEMO LINK :https://manpreetjord.github.io/drag-drop-component/
 
 # Getting Started with Create React App
 
