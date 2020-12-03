@@ -27,7 +27,7 @@
   min-height: 150px;
   background-color: white;
   border-radius: 5px;
-  color: #282c34;
+  color:lightcoral;
   font-weight: bold;
 }
 .dnd-item:not(:last-of-type) {
